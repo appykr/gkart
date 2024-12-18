@@ -1,2 +1,2 @@
 # gkart
-An ecommerce Django based website
+A Django Framework based ecommerce website
